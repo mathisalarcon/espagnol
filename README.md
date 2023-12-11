@@ -1,8 +1,6 @@
-Inditex es uno de los mayores distribuidores de moda del mundo. Su conglomerado abarca a Zara, pero también a 8 marcas más: Zara Home, Stradivarius, Pull and Bear, Bershka, Massimo Dutti, Oysho, Lefties y la recién desaparecida Uterqüe.
+**Inditex es uno de los mayores distribuidores de moda del mundo. Su conglomerado abarca a Zara, pero también a 8 marcas más: Zara Home, Stradivarius, Pull and Bear, Bershka, Massimo Dutti, Oysho, Lefties y la recién desaparecida Uterqüe.**
 
 <details>
-<summary>Version française</summary>
-
 Inditex est l'un des plus grands distributeurs de mode au monde. Son conglomérat englobe Zara, mais aussi 8 autres marques : Zara Home, Stradivarius, Pull and Bear, Bershka, Massimo Dutti, Oysho, Lefties et la récemment disparue Uterqüe.
 </details>
 
