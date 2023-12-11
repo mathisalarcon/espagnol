@@ -1,3 +1,5 @@
+# INDITEX
+
 > Inditex es uno de los mayores distribuidores de moda del mundo. Su conglomerado abarca a Zara, pero también a 8 marcas más: Zara Home, Stradivarius, Pull and Bear, Bershka, Massimo Dutti, Oysho, Lefties y la recién desaparecida Uterqüe.
 
 <details>
@@ -65,4 +67,55 @@ Et, quel est le modèle d'affaires d'Inditex ? Inditex lance de nouvelles collec
 
 <details>
 Une équipe d'environ 700 personnes travaillant depuis le siège d'Arteixo (Galice) est chargée de concevoir chacun de ses produits. La fabrication, en revanche, est confiée à 12 noyaux de production allant de la Chine au Brésil.
+</details>
+
+
+# GLOVO
+
+> El pasado 12 de mayo de 2021 se publicó en el BOE el Real Decreto-ley 9/2021, en el que se establecen una serie de medidas para proteger los derechos laborales de las personas dedicadas al reparto a través de plataformas digitales, o riders.
+
+<details>
+Le 12 mai 2021, le décret-loi royal 9/2021 a été publié au BOE, établissant une série de mesures visant à protéger les droits des travailleurs dédiés à la livraison via des plateformes numériques, ou « riders ».
+</details>
+
+
+> El Real Decreto establece que los repartidores que prestan sus servicios a empresas digitales como Deliveroo, Uber Eats o Glovo pasarán a tener una relación laboral con estas compañías, es decir, los riders serán empleados y no autónomos como hasta ahora, por lo tanto, deben cotizar en el Régimen General.
+
+<details>
+Le décret royal établit que les livreurs qui fournissent leurs services à des entreprises numériques telles que Deliveroo, Uber Eats ou Glovo auront une relation de travail avec ces entreprises, c'est-à-dire que les riders seront des employés et non des travailleurs indépendants comme auparavant. Par conséquent, ils doivent cotiser au Régime général.
+</details>
+
+
+> La Ley Rider entiende que dichas plataformas organizan, dirigen y controlan el trabajo de los repartidores a través de algoritmos, y que por tanto, se trata de empleados y no de falsos autónomos.
+
+<details>
+La loi Rider comprend que ces plates-formes organisent, dirigent et contrôlent le travail des livreurs via des algorithmes, et qu'il s'agit donc d'employés et non de faux indépendants.
+</details>
+
+
+> Las empresas de envío de comida a domicilio como Glovo, Uber Eats, Stuart o Deliveroo tendrán hasta el 12 de agosto de 2021 (tres meses después de la entrada en vigor de la Ley Rider) para dar de alta a los repartidores en la Tesorería General de la Seguridad Social (TGSS) como trabajadores por cuenta ajena.
+
+<details>
+Les entreprises de livraison de repas à domicile telles que Glovo, Uber Eats, Stuart ou Deliveroo auront jusqu'au 12 août 2021 (trois mois après l'entrée en vigueur de la loi Rider) pour inscrire les livreurs à la Trésorerie générale de la sécurité sociale (TGSS) en tant que salariés.
+</details>
+
+
+> De esta manera, los riders disfrutarán así de los derechos de los trabajadores asalariados: vacaciones pagadas, prestación por desempleo, descansos… La Ley Rider establece además la obligación por parte de las empresas a informar al comité de empresa sobre los algoritmos que rigen las decisiones de carácter laboral para evitar sesgos.
+
+<details>
+De cette manière, les riders bénéficieront des droits des travailleurs salariés : congés payés, indemnités de chômage, pauses… La loi Rider établit également l'obligation pour les entreprises d'informer le comité d'entreprise sur les algorithmes qui guident les décisions de nature professionnelle afin d'éviter les biais.
+</details>
+
+
+> Esto incluye los sistemas que puntúen al empleado a la hora de ascensos o despidos, la elaboración de perfiles de recursos humanos o cualquier sistema de inteligencia artificial que afecte a la toma de decisiones que puedan incidir en las condiciones de trabajo.
+
+<details>
+Cela inclut les systèmes qui évaluent les employés lors des promotions ou des licenciements, l'élaboration de profils de ressources humaines ou tout système d'intelligence artificielle qui affecte la prise de décision et peut influencer les conditions de travail.
+</details>
+
+
+> Las empresas tendrán hasta agosto de 2021 para entregar esta información, que estará disponible para los comités con la periodicidad que proceda.
+
+<details>
+Les entreprises auront jusqu'en août 2021 pour fournir ces informations, qui seront disponibles pour les comités selon la fréquence appropriée.
 </details>
