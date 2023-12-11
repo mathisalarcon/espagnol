@@ -196,28 +196,28 @@ Juan Valdez a identifié chez les jeunes caféiculteurs une opportunité d'exalt
 </details>
 
 
-Lo anterior resume el programa Renacer, una iniciativa que busca que estos caficultores encuentren en el campo un escenario innovador, competitivo e incluyente para construir sus proyectos de vida en la ruralidad.
+> Lo anterior resume el programa Renacer, una iniciativa que busca que estos caficultores encuentren en el campo un escenario innovador, competitivo e incluyente para construir sus proyectos de vida en la ruralidad.
 
 <details>
 Ce qui précède résume le programme Renacer, une initiative visant à ce que ces caféiculteurs trouvent dans la campagne un environnement innovant, compétitif et inclusif pour construire leurs projets de vie en milieu rural.
 </details>
 
 
-Desde su creación, Renacer ha contado con aliados como la Federación Nacional de Cafeteros (FNC), que ha acompañado todo el proceso de compra y relación con los caficultores beneficiarios.
+> Desde su creación, Renacer ha contado con aliados como la Federación Nacional de Cafeteros (FNC), que ha acompañado todo el proceso de compra y relación con los caficultores beneficiarios.
 
 <details>
 Depuis sa création, Renacer a bénéficié de partenaires tels que la Fédération nationale des caféiculteurs (FNC), qui a accompagné tout le processus d'achat et de relation avec les caféiculteurs bénéficiaires.
 </details>
 
 
-Para 2022, además de la FNC como aliado natural, el programa cuenta con Microsoft, la fundación Manuel Mejía y la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO), como socios enfocados en el fortalecimiento multidimensional para aumentar la competitividad de los jóvenes, con un componente fundamental de alfabetización digital.
+> Para 2022, además de la FNC como aliado natural, el programa cuenta con Microsoft, la fundación Manuel Mejía y la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO), como socios enfocados en el fortalecimiento multidimensional para aumentar la competitividad de los jóvenes, con un componente fundamental de alfabetización digital.
 
 <details>
 Pour 2022, en plus de la FNC en tant qu'allié naturel, le programme compte sur Microsoft, la fondation Manuel Mejía et l'Organisation des Nations Unies pour l'alimentation et l'agriculture (FAO), en tant que partenaires axés sur le renforcement multidimensionnel pour accroître la compétitivité des jeunes, avec un composant fondamental d'alphabétisation numérique.
 </details>
 
 
-Este programa ha impactado caficultores de Huila, Guajira, Cauca, Nariño, Antioquia, Risaralda, Quindío, entre otros departamentos.
+> Este programa ha impactado caficultores de Huila, Guajira, Cauca, Nariño, Antioquia, Risaralda, Quindío, entre otros departamentos.
 
 <details>
 Ce programme a eu un impact sur les caféiculteurs de Huila, Guajira, Cauca, Nariño, Antioquia, Risaralda, Quindío, entre autres départements.
