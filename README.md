@@ -163,3 +163,126 @@ L'entreprise de Gómez et Muñoz n'a pas rapporté de bénéfices jusqu'à réce
 <details>
 À partir de ce moment, ce que envisagent les deux fondateurs, c'est de commencer à rentabiliser l'entreprise grâce aux utilisateurs premium. "Des millions de personnes utilisent notre application, mais certaines le font de manière plus intensive. Les fonctionnalités premium sont celles qui nous aideront à monétiser l'entreprise", indique Gómez.
 </details>
+
+
+# JUAN VALDEZ
+
+## Introduction
+> Juan Valdez ha enfocado su propósito en acciones que construyan un mejor país. Por esta razón, desde 2021, la marca fue certificada como Empresa B, reconocimiento que la entidad sin ánimo de lucro B Lab entrega a las organizaciones que no miden su éxito solo con sus resultados financieros, sino también a través de su desempeño social y ambiental.
+
+<details>
+Juan Valdez a orienté son objectif vers des actions qui construisent un meilleur pays. Pour cette raison, depuis 2021, la marque a été certifiée comme Entreprise B, une reconnaissance que l'organisme à but non lucratif B Lab accorde aux organisations qui mesurent leur succès non seulement par leurs résultats financiers, mais aussi par leur performance sociale et environnementale.
+</details>
+
+
+> Esto reafirma su compromiso con los actores que protagonizan el proceso alrededor del café, que han sido beneficiados por programas de valor compartido de la compañía, como Renacer, Mujeres Cafeteras, Proveeduría Sostenible, y Economía Circular y Mitigación del Cambio Climático.
+
+<details>
+Cela confirme son engagement envers les acteurs qui jouent un rôle central dans le processus du café, et qui ont bénéficié de programmes de valeur partagée de l'entreprise, tels que Renacer, Mujeres Cafeteras, Proveeduría Sostenible, et Economía Circular y Mitigación del Cambio Climático.
+</details>
+
+
+> Para poder materializar estos proyectos, la marca ha abordado desafíos sociales como el empalme generacional y la equidad de género, para convertirlos en soluciones innovadoras y oportunidades de mercado.
+
+<details>
+Pour concrétiser ces projets, la marque a relevé des défis sociaux tels que le raccordement intergénérationnel et l'équité entre les sexes, pour les transformer en solutions innovantes et en opportunités de marché.
+</details>
+
+## Jóvenes Renacer
+> Juan Valdez identificó en los jóvenes cafeteros una oportunidad para exaltar los atributos del campo y contribuir a la construcción de un futuro próspero, a partir de los nuevos liderazgos que han surgido en diferentes regiones del país.
+
+<details>
+Juan Valdez a identifié chez les jeunes caféiculteurs une opportunité d'exalter les attributs de la campagne et de contribuer à la construction d'un avenir prospère, à partir des nouveaux leaderships qui ont émergé dans différentes régions du pays.
+</details>
+
+
+Lo anterior resume el programa Renacer, una iniciativa que busca que estos caficultores encuentren en el campo un escenario innovador, competitivo e incluyente para construir sus proyectos de vida en la ruralidad.
+
+<details>
+Ce qui précède résume le programme Renacer, une initiative visant à ce que ces caféiculteurs trouvent dans la campagne un environnement innovant, compétitif et inclusif pour construire leurs projets de vie en milieu rural.
+</details>
+
+
+Desde su creación, Renacer ha contado con aliados como la Federación Nacional de Cafeteros (FNC), que ha acompañado todo el proceso de compra y relación con los caficultores beneficiarios.
+
+<details>
+Depuis sa création, Renacer a bénéficié de partenaires tels que la Fédération nationale des caféiculteurs (FNC), qui a accompagné tout le processus d'achat et de relation avec les caféiculteurs bénéficiaires.
+</details>
+
+
+Para 2022, además de la FNC como aliado natural, el programa cuenta con Microsoft, la fundación Manuel Mejía y la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO), como socios enfocados en el fortalecimiento multidimensional para aumentar la competitividad de los jóvenes, con un componente fundamental de alfabetización digital.
+
+<details>
+Pour 2022, en plus de la FNC en tant qu'allié naturel, le programme compte sur Microsoft, la fondation Manuel Mejía et l'Organisation des Nations Unies pour l'alimentation et l'agriculture (FAO), en tant que partenaires axés sur le renforcement multidimensionnel pour accroître la compétitivité des jeunes, avec un composant fondamental d'alphabétisation numérique.
+</details>
+
+
+Este programa ha impactado caficultores de Huila, Guajira, Cauca, Nariño, Antioquia, Risaralda, Quindío, entre otros departamentos.
+
+<details>
+Ce programme a eu un impact sur les caféiculteurs de Huila, Guajira, Cauca, Nariño, Antioquia, Risaralda, Quindío, entre autres départements.
+</details>
+
+## Mujeres Cafeteras
+> Desde 2017, Juan Valdez incorporó el enfoque de equidad de género como pilar a través del programa Mujeres Cafeteras, para promover el empoderamiento social y económico de las caficultoras e incentivar las buenas prácticas, la asociatividad y el cuidado del medio ambiente en aras de mejorar la calidad de vida de sus familias y comunidades, por medio de la comercialización de su café.
+
+<details>
+Depuis 2017, Juan Valdez a intégré l'approche de l'équité de genre comme pilier à travers le programme Mujeres Cafeteras, pour promouvoir l'autonomisation sociale et économique des caféicultrices et encourager les bonnes pratiques, l'associativité et la protection de l'environnement afin d'améliorer la qualité de vie de leurs familles et communautés, grâce à la commercialisation de leur café.
+</details>
+
+
+> Entre 2019 y 2021, esta iniciativa ha garantizado la comercialización de 106.056 kilos de café, fruto del trabajo de las asociaciones participantes del programa. Asimismo, ha visibilizado la labor de más de 162.000 mujeres, que representan aproximadamente el 30% de la caficultura en el país.
+
+<details>
+Entre 2019 et 2021, cette initiative a assuré la commercialisation de 106 056 kilogrammes de café, fruit du travail des associations participant au programme. De plus, elle a mis en lumière le travail de plus de 162 000 femmes, représentant environ 30 % de la caféiculture dans le pays.
+</details>
+
+
+> Por otro lado, Mujeres Cafeteras tiene como aliados la FNC, Développement International Desjardins DID-PROFEM, la fundación Bancolombia, Solidaridad Network, Fundación ANDI, entre otras; estas han aportado desde la educación financiera, la equidad de género, el fortalecimiento técnico y de proyecto de vida de las caficultoras.
+
+<details>
+D'autre part, Mujeres Cafeteras compte parmi ses alliés la FNC, Développement International Desjardins DID-PROFEM, la Fondation Bancolombia, Solidaridad Network, la Fondation ANDI, entre autres ; elles ont contribué à l'éducation financière, à l'équité de genre, au renforcement technique et au projet de vie des caféicultrices.
+</details>
+
+
+> Jóvenes Renacer y Mujeres Cafeteras han robustecido multidimensionalmente a más de 160 caficultores desde 2019, por medio de la comercialización de más de 200 toneladas de su café pergamino seco.
+
+<details>
+Jóvenes Renacer et Mujeres Cafeteras ont renforcé de manière multidimensionnelle plus de 160 caféiculteurs depuis 2019, grâce à la commercialisation de plus de 200 tonnes de leur café parchemin sec.
+</details>
+
+## Proveeduría Sostenible
+> La marca ha trabajado en acciones responsables desde las dimensiones sociales y ambientales, lo que ha asegurado un negocio competitivo para toda la cadena de abastecimiento, por medio de la inclusión de emprendedores de comunidades vulnerables y la consolidación de alianzas con proveedores que han implementado buenas prácticas en sus modelos operativos.
+
+<details>
+La marque a travaillé sur des actions responsables dans les dimensions sociales et environnementales, assurant ainsi une activité compétitive pour toute la chaîne d'approvisionnement, en incluant des entrepreneurs issus de communautés vulnérables et en consolidant des alliances avec des fournisseurs ayant mis en place de bonnes pratiques dans leurs modèles opérationnels.
+</details>
+
+
+> A la fecha, se han comercializado más de 16.000 productos elaborados por víctimas del conflicto, grupos indígenas población en situación de pobreza, desmovilizados, entre otros.
+
+<details>
+À ce jour, plus de 16 000 produits élaborés par des victimes du conflit, des groupes indigènes, des populations en situation de pauvreté, des démobilisés, entre autres, ont été commercialisés.
+</details>
+
+
+> Estos acuerdos comerciales están amparados bajo la política de compras inclusivas, con criterios diferenciados de contratación y pago, lo que garantiza condiciones justas que se adecúan a las realidades de estos proveedores.
+
+<details>
+Ces accords commerciaux sont soutenus par la politique d'achats inclusifs, avec des critères de recrutement et de paiement différenciés, garantissant des conditions équitables adaptées aux réalités de ces fournisseurs.
+</details>
+
+
+## Economía circular y mitigación del cambio climático
+> Juan Valdez, que busca medir y reducir las externalidades que su operación produce, a través de iniciativas como la reparación y el rediseño de mobiliarios, hasta abril de 2022, en alianza con organizaciones como Recupera tu Silla y A Mano Lab, ya ha logrado la puesta en operación de 261 sillas y 205 muebles, y evitado el uso de 3.862 kilos de materia prima.
+
+<details>
+Juan Valdez, qui cherche à mesurer et à réduire les externalités que son activité produit, à travers des initiatives telles que la réparation et la refonte de meubles, jusqu'en avril 2022, en partenariat avec des organisations telles que Recupera tu Silla et A Mano Lab, a déjà mis en service 261 chaises et 205 meubles, et évité l'utilisation de 3 862 kilogrammes de matières premières.
+</details>
+
+
+> De igual forma, ha implementado el ecodiseño en sus envases y empaques, las estrategias de reutilización de materiales y procesos de recolección, y el cálculo de la huella de carbono alcance 1 (emisiones directas de fuentes propias o controladas) y 2 (emisiones indirectas derivadas del consumo de energía).
+
+<details>
+De même, il a mis en œuvre l'écoconception dans ses emballages, les stratégies de réutilisation des matériaux et les processus de collecte, ainsi que le calcul de l'empreinte carbone de portée 1 (émissions directes de sources propres ou contrôlées) et 2 (émissions indirectes résultant de la consommation d'énergie).
+</details>
