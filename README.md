@@ -119,3 +119,47 @@ Cela inclut les systèmes qui évaluent les employés lors des promotions ou des
 <details>
 Les entreprises auront jusqu'en août 2021 pour fournir ces informations, qui seront disponibles pour les comités selon la fréquence appropriée.
 </details>
+
+
+# WALLAPOP
+
+> Agustín y David son dos chicos de barrio que están detrás del imperio Wallapop, la aplicación móvil de compra y venta de productos de segunda mano más popular hoy día.
+
+<details>
+Agustín et David sont deux jeunes du quartier à l'origine de l'empire Wallapop, l'application mobile d'achat et de vente de produits d'occasion la plus populaire aujourd'hui.
+</details>
+
+
+> Si Google nació en un garaje, Wallapop no lo hizo de una forma menos humilde. La historia es simple y hay que fecharla en 2013: dos amigos y compañeros de trabajo procedentes de modestos barrios de la provincia de Barcelona, Agustín Gómez y David Muñoz, dejan sus trabajos estables en el mundo de la auditoría para apostar por una idea que durante tres años no les reporta ningún beneficio económico.
+
+<details>
+Si Google est né dans un garage, Wallapop n'a pas été moins modeste dans sa création. L'histoire est simple et date de 2013 : deux amis et collègues de travail originaires de quartiers modestes de la province de Barcelone, Agustín Gómez et David Muñoz, quittent leurs emplois stables dans le monde de l'audit pour parier sur une idée qui ne leur rapporte aucun bénéfice économique pendant trois ans.
+</details>
+
+
+> Uno es matemático y el otro ingeniero de telecomunicaciones, pero ambos asumen riesgos, aunque el del primero llega al límite, pues se aventura mientras espera a su primer hijo. David Muñoz se encarga de la parte tecnológica de la empresa.
+
+<details>
+L'un est mathématicien et l'autre ingénieur en télécommunications, mais tous deux prennent des risques, bien que celui du premier atteigne ses limites, car il se lance tout en attendant son premier enfant. David Muñoz s'occupe de la partie technologique de l'entreprise.
+</details>
+
+
+> En las oficinas, que cuentan con bodega para el disfrute de los empleados, trabajan actualmente 120 personas cuya media de edad es de 25 años. Pese a acudir cada día a trabajar a la oficina, es más probable encontrar a Gómez en el bar situado justo debajo. "Los negocios los cerramos allí. Es casi como mi despacho", explica un CEO al que nunca le ha gustado hacer ostentación y que prefiere conservar las costumbres del primer día.
+
+<details>
+Dans les bureaux, qui disposent d'une cave pour le plaisir des employés, travaillent actuellement 120 personnes dont la moyenne d'âge est de 25 ans. Bien qu'il se rende chaque jour au bureau, il est plus probable de trouver Gómez dans le bar situé juste en dessous. "Nous concluons les affaires là-bas. C'est presque comme mon bureau", explique un PDG qui n'a jamais aimé faire étalage et qui préfère conserver les habitudes du premier jour.
+</details>
+
+
+> El negocio de Gómez y Muñoz no ha reportado beneficios hasta hace bien poco. "Es cierto que la industria de los clasificados es una de las más potentes y rentables, pero para comenzar a monetizar es necesario posicionarse frente a la competencia y lograr cierta distancia respecto al segundo. Por aquel entonces el capital riesgo fue el que nos ayudó a financiarnos. Ahora nos apadrinan pesos pesados y es cuando, tras liderar el mercado, hemos comenzado a hacer dinero", explica Gómez.
+
+<details>
+L'entreprise de Gómez et Muñoz n'a pas rapporté de bénéfices jusqu'à récemment. "Il est vrai que l'industrie des petites annonces est l'une des plus puissantes et rentables, mais pour commencer à monétiser, il est nécessaire de se positionner par rapport à la concurrence et de prendre une certaine distance par rapport au deuxième. À l'époque, le capital-risque nous a aidés à nous financer. Maintenant, nous sommes parrainés par des poids lourds et c'est à ce moment-là, après avoir dominé le marché, que nous avons commencé à gagner de l'argent", explique Gómez.
+</details>
+
+
+> A partir de este momento, lo que barajan los dos fundadores es comenzar a rentabilizar la compañía a través de los usuarios premium. "Son millones las personas que utilizan nuestra aplicación, pero hay algunas que lo hacen con más intensidad. Las funcionalidades premium son las que nos ayudarán a monetizar la compañía", señala Gómez.
+
+<details>
+À partir de ce moment, ce que envisagent les deux fondateurs, c'est de commencer à rentabiliser l'entreprise grâce aux utilisateurs premium. "Des millions de personnes utilisent notre application, mais certaines le font de manière plus intensive. Les fonctionnalités premium sont celles qui nous aideront à monétiser l'entreprise", indique Gómez.
+</details>
